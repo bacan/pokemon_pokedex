@@ -1,0 +1,51 @@
+body{
+    background: #80d8ff;
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    text-align: center;
+}
+header{
+    background: #0091ea;
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding: 0.5em;
+}
+nav{
+	box-shadow: rgba(0,0,0,0.5) 5px 5px 10px;
+    width: 30%;
+}
+section{
+	padding: 1%;
+	box-shadow: rgba(0,0,0,0.5) 5px 5px 10px;
+	width: 50%;
+}
+nav, section{
+	background: #00b0ff;
+	border-radius: 0.5em;
+    display: inline-block;
+    vertical-align: top;
+    margin: 1em;
+}
+img{
+
+    width: 50%;
+}
+input{
+    background: #b3e5fc;
+    box-shadow: rgba(0,0,0,0.5) 5px 5px 10px;
+	font-size: 1.5em;
+	border-radius: 0.5em;
+	margin: 2em 1em;
+	padding: 0.5em;
+    width: 70%;
+}
+#pokeimagen{
+    box-shadow: rgba(0,0,0,0.5) 1px 1px 1px 5px;
+    border: 1em;
+}
+#pokeficha{
+    box-shadow: rgba(0,0,0,0.5) 1px 1px 1px 5px;
+}
